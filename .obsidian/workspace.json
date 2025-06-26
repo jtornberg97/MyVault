@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "26cc35b985703dd9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8b9721c457862af4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          }
-        ]
-      },
-      {
         "id": "9a6b59c4de2101f8",
         "type": "tabs",
         "children": [
@@ -31,10 +11,10 @@
             "id": "798a802c7e556e4b",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -188,25 +168,51 @@
   },
   "active": "1999b2bb41690748",
   "lastOpenFiles": [
-    "Hub/MOC - Judaism.md",
-    "Hub/MOC - Christianity.md",
-    "Judaism",
-    "README.md",
-    "Hub/MOC - Historical Judaism.md",
-    "Hub/Home.md",
-    "Hub/MOC - Theology.md",
-    "Hub/MOC - Early Christianity.md",
-    "Notes/Permanent",
-    "Notes/Fleeting",
-    "Notes/Daily Notes",
-    "Resources/Videos",
-    "Resources/Books",
-    "Resources/Articles",
-    "Templates/Topic Note.md",
-    "Christianity",
-    "Historical Judaism",
-    "Hub",
-    "Welcome.md",
-    "README.md.md"
+    "content/Hub/MOC - Theology.md",
+    "content/Hub/MOC - Christianity.md",
+    "content/Judaism/Untitled.md",
+    "content/Resources/Videos",
+    "content/Resources/Books",
+    "content/Resources/Articles",
+    "content/Templates/Topic Note.md",
+    "content/Notes/Permanent",
+    "content/Notes/Fleeting",
+    "content/Notes/Daily Notes",
+    "content/Hub/MOC - Judaism.md",
+    "content/Hub/Home.md",
+    "content/index.md",
+    "content/Theology",
+    "content/Templates",
+    "content/Sandbox",
+    "content/Resources",
+    "quartz/content/index.md",
+    "quartz/node_modules/mathjax-full/README.md",
+    "quartz/node_modules/mathjax-full/CONTRIBUTING.md",
+    "quartz/node_modules/pixi.js/README.md",
+    "quartz/node_modules/rxjs/README.md",
+    "quartz/node_modules/rxjs/CODE_OF_CONDUCT.md",
+    "quartz/node_modules/rxjs/CHANGELOG.md",
+    "quartz/node_modules/typescript/SECURITY.md",
+    "quartz/node_modules/typescript/README.md",
+    "quartz/node_modules/@img/sharp-libvips-darwin-arm64/README.md",
+    "quartz/node_modules/colorjs.io/README.md",
+    "quartz/node_modules/@esbuild/darwin-arm64/README.md",
+    "quartz/node_modules/speech-rule-engine/README.md",
+    "quartz/node_modules/speech-rule-engine/bin/README.md",
+    "quartz/node_modules/rehype-citation/README.md",
+    "quartz/node_modules/flexsearch/README.md",
+    "quartz/node_modules/sass/README.md",
+    "quartz/node_modules/flexsearch/CHANGELOG.md",
+    "quartz/node_modules/katex/README.md",
+    "quartz/node_modules/cli-spinner/img/spinner.gif",
+    "quartz/node_modules/gifuct-js/demo/jblack.gif",
+    "quartz/node_modules/gifuct-js/demo/dog.gif",
+    "quartz/node_modules/gifuct-js/demo/horses.gif",
+    "quartz/node_modules/js-binary-schema-parser/example/dog.gif",
+    "quartz/node_modules/js-binary-schema-parser/example/horses.gif",
+    "quartz/node_modules/js-binary-schema-parser/example/box.gif",
+    "quartz/quartz/static/og-image.png",
+    "quartz/quartz/static/icon.png",
+    "quartz/docs/images/social-image-preview-light.png"
   ]
 }
