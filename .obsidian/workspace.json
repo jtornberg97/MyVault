@@ -11,10 +11,24 @@
             "id": "798a802c7e556e4b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Christianity/Reformation/index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -146,13 +160,23 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "ac7a7c6c3ea4024e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,42 +192,42 @@
   },
   "active": "1999b2bb41690748",
   "lastOpenFiles": [
-    "Theology",
-    "Templates/Topic Note.md",
-    "Templates",
-    "Sandbox",
-    "Resources/Videos",
-    "Resources/Articles",
-    "Resources/Books",
-    "Resources",
-    "Notes/Permanent",
-    "Notes/Daily Notes",
-    "Notes/Fleeting",
-    "Notes",
-    "index.md",
-    "Hub/MOC - Theology.md",
-    "Hub/MOC - Judaism.md",
-    "Hub/Home.md",
-    "Hub/MOC - Christianity.md",
-    "Judaism/Untitled.md",
-    "content/Hub/MOC - Theology.md",
-    "content/Hub/MOC - Christianity.md",
-    "content/Judaism/Untitled.md",
-    "content/Templates/Topic Note.md",
-    "content/Hub/MOC - Judaism.md",
-    "content/Hub/Home.md",
-    "content/index.md",
-    "quartz/content/index.md",
-    "quartz/node_modules/mathjax-full/README.md",
-    "quartz/node_modules/mathjax-full/CONTRIBUTING.md",
-    "quartz/node_modules/pixi.js/README.md",
-    "quartz/node_modules/rxjs/README.md",
-    "quartz/node_modules/rxjs/CODE_OF_CONDUCT.md",
-    "quartz/node_modules/rxjs/CHANGELOG.md",
-    "quartz/node_modules/typescript/SECURITY.md",
-    "quartz/node_modules/typescript/README.md",
-    "quartz/node_modules/@img/sharp-libvips-darwin-arm64/README.md",
-    "quartz/node_modules/colorjs.io/README.md",
+    "Christianity/Untitled.md",
+    "Christianity/Reformation/index.md",
+    "Resources/Metadata Reference.md",
+    "Resources/index.md",
+    "Glossary/index.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Untitled",
+    "Templates/Lecture Note.md",
+    "Topics/index.md",
+    "Templates/Scripture Study Note.md",
+    "Templates/Primary Source Summary.md",
+    "Templates/Person Note.md",
+    "Templates/Literature Note.md",
+    "Templates/Secondary Source Note.md",
+    "Judaism/Ancient Judaism/index.md",
+    "Templates/index.md",
+    "Hub/index.md",
+    "Christianity/Historical Christianity/index.md",
+    "Christianity/Church Fathers/index.md",
+    "Christianity/New Testament Studies/index.md",
+    "Christianity/Modern Christianity/index.md",
+    "Christianity/Denominations/index.md",
+    "Christianity/Historical Christianity",
+    "Christianity/Church Fathers",
+    "Christianity/New Testament Studies",
+    "Christianity/Reformation",
+    "Christianity/Modern Christianity",
+    "Christianity/Denominations",
+    "Christianity",
+    "Comparative Theology/Ethics and Law/index.md",
+    "Comparative Theology/Messianic Expectations/index.md",
+    "Comparative Theology/Worship & Liturgy/index.md",
+    "Comparative Theology/Doctrinal Comparisons/index.md",
+    "Comparative Theology/Messianic Expectations",
+    "Comparative Theology/Ethics and Law",
     "quartz/node_modules/cli-spinner/img/spinner.gif",
     "quartz/node_modules/gifuct-js/demo/jblack.gif",
     "quartz/node_modules/gifuct-js/demo/dog.gif",
