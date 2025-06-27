@@ -25,7 +25,6 @@ tags:
 - Christianity begins as a small persecuted group
 - [[Constantine the Great]] is the first Christian Emperor
 - What happened in the years between Jesus and Constantine?
-- [[Pagan]] - Adherent of any of the polytheistic religions of antiquity, particularly in the [[Roman Empire]]
 	- Most of Christianity's early converts
 - [[Judaism]] is the the first Monotheistic religion
 - [[Paul|Saint Paul]]

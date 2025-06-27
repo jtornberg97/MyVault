@@ -15,7 +15,12 @@ aliases:
 # Pagan
 
 ## Overview
-- 
+- Adherent of any of the polytheistic religions of antiquity, particularly in the [[Roman Empire]]
+- Gods
+- Had Gods for all aspects of life (i.e. weather, war, crops, hell.)
+	- "Greater Gods" like Jupiter, Juno, Venus
+	- "Lesser Gods" who cared for cities, towns, villages
+	- God's followed a pyramid structure (i.e greatest on top, lowest on botton)
 
 ## Historical or Cultural Context
 

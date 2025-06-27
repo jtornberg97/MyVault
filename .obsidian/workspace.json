@@ -21,33 +21,19 @@
             "id": "2ced55f6728852de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "d7016d80c3139101",
+            "id": "9f306c9cec694734",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topics/Cult.md",
+                "file": "Topics/Pax Deorum.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,7 +48,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cult"
+              "title": "Pax Deorum"
+            }
+          },
+          {
+            "id": "88dabbf0b95179e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topics/Pagan.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Pagan"
             }
           }
         ],
@@ -169,12 +179,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links"
             }
           },
           {
@@ -198,13 +207,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
             }
           },
           {
@@ -231,7 +239,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -259,15 +266,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of README"
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -283,14 +289,16 @@
   },
   "active": "2ced55f6728852de",
   "lastOpenFiles": [
-    "Hub/index.md",
-    "README.md",
     "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 2 - The Religious World of Early Christianity.md",
+    "Topics/Pax Deorum.md",
+    "Topics/Pagan.md",
+    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 1 - The Birth of Christianity.md",
     "Topics/Cult.md",
+    "README.md",
+    "Hub/index.md",
     "Christianity/Orthodoxy.md",
     "Topics/Cults.md",
     "People/Constantine the Great.md",
-    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 1 - The Birth of Christianity.md",
     "People/Alexander the Great.md",
     "People/Paul.md",
     "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Course Summary.pdf",
@@ -300,7 +308,6 @@
     "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Untitled.md",
     "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity.md",
     "Course Summary.md",
-    "Topics/Pagan.md",
     "Christianity/index.md",
     "Untitled.md",
     "Christianity/New Testament Studies/index.md",
@@ -310,7 +317,6 @@
     "Systematic Theology/Anthropology & Hamartiology/index.md",
     "People/Jesus Christ.md",
     "Tags",
-    "Templates/Primary Source Note.md",
     "Resources/Maps",
     "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity",
     "Untitled",
