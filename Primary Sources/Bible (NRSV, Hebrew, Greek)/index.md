@@ -1,8 +1,8 @@
 ---
-title: "Bible (NRSV, Hebrew, Greek)"
-type: "folder-index"
-category: "Bible (NRSV, Hebrew, Greek)"
-tags: [bible-(nrsv,-hebrew,-greek)]
+title: Bible (NRSV, Hebrew, Greek)
+type: folder-index
+category: Bible (NRSV, Hebrew, Greek)
+tags: []
 ---
 
 # Bible (NRSV, Hebrew, Greek)

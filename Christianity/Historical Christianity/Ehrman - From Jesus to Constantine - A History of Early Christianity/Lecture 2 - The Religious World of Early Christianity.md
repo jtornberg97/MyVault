@@ -31,6 +31,8 @@ tags:
 - Religion sought [[Pax Deorum]], didn't demand spirituality but rather ritual practice (prayer and sacrifice, primarily animals)
 	- Sacrifice done in temples
 	- Usually a celebration was set aside for sacrifices and was one of the few times people in antiquity ate meat
+- Doctrine was not a major issue in [[Pagan]] religion
+	- As a result, religions were highly tolerant of one another
 
 
 ## Key Takeaways

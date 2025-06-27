@@ -18,6 +18,7 @@ aliases:
 # Jesus Christ
 
 ## Bio
+- Spoke [[Aramaic]]
 
 ## Major Works
 
