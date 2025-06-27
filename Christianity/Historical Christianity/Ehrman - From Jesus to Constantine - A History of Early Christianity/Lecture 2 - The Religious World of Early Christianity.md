@@ -33,7 +33,7 @@ tags:
 	- Usually a celebration was set aside for sacrifices and was one of the few times people in antiquity ate meat
 - Doctrine was not a major issue in [[Pagan]] religion
 	- As a result, religions were highly tolerant of one another
-
+- [[Judaism]] only made up ~7% of the Roman Empire
 
 ## Key Takeaways
 
