@@ -3,5 +3,8 @@
   "dataview",
   "templater-obsidian",
   "auto-scripture-linker",
-  "tag-wrangler"
+  "tag-wrangler",
+  "make-md",
+  "convert-url-to-iframe",
+  "text-extractor"
 ]

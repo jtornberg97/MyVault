@@ -21,6 +21,3 @@ tags: [lecture, video]
 - 
 
 ## References
-
-## Related Notes
-- [[ ]]

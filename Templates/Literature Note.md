@@ -19,6 +19,3 @@ tags: [literature-note]
 ## Notable Quotes
 
 > 
-
-## Related Topics
-- [[ ]]

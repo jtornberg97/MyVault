@@ -19,6 +19,3 @@ date: {{date}}
 ## Interpretation
 
 ## Theological Themes
-
-## Related Notes
-- [[ ]]

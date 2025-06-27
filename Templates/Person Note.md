@@ -5,9 +5,12 @@ tradition: ""
 role: ""
 field: ""
 lifespan: ""
-key_works: []
-tags: [person]
-date: {{date}}
+key_works: 
+tags:
+  - person
+date:
+  "{ date }": 
+aliases:
 ---
 
 # {{title}}
@@ -22,6 +25,3 @@ date: {{date}}
 
 > 
 
-## Related Notes
-- [[ ]]
-- Mentioned in: `[[Literature Notes/Some Book]]`
