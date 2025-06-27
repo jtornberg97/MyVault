@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 2 - The Religious World of Early Christianity.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lecture 2 - The Religious World of Early Christianity"
+              "title": "README"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 2 - The Religious World of Early Christianity.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lecture 2 - The Religious World of Early Christianity"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -198,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 2 - The Religious World of Early Christianity.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecture 2 - The Religious World of Early Christianity"
+              "title": "Outline of README"
             }
           },
           {
@@ -218,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "c17cd923b8c7b538",
@@ -231,7 +231,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 2 - The Religious World of Early Christianity.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -259,7 +259,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Lecture 2 - The Religious World of Early Christianity"
+              "title": "Graph of README"
             }
           }
         ]
@@ -280,7 +280,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2ced55f6728852de",
+  "active": "ac7a7c6c3ea4024e",
   "lastOpenFiles": [
     "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 2 - The Religious World of Early Christianity.md",
     "Topics/Cult.md",
