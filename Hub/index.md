@@ -10,7 +10,6 @@ tags: [hub]
 ## 📄 Notes
 ```dataview
 table file.name as "Note", file.mtime as "Last Modified"
-from "Hub"
 where file.name != "index"
 sort file.mtime desc
 ```

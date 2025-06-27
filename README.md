@@ -18,13 +18,7 @@ Welcome to your research vault on Christianity, Judaism, and Theology. Here's ho
 - 📁 **Comparative Theology** — Doctrinal comparisons and shared themes
 - 📁 **Primary Sources** — Scriptures, Dead Sea Scrolls, Church Fathers
 - 📁 **Literature Notes** — Notes from academic books and articles
-- 📁 **Lecture & Video Notes** — Notes from YouTube, podcasts, courses
 - 📁 **People** — Scholars, theologians, and historical figures
-- 📁 **Topics** — Cross-cutting themes like “Covenant” or “Messiah”
-- 📁 **Questions** — Unresolved research questions
-- 📁 **Glossary** — Key theological and historical terms
-- 📁 **Projects** — Drafts and ongoing writing work
-- 📁 **Journal** — Weekly summaries or reflections
 
 ---
 
