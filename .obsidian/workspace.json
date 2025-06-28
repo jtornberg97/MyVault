@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "26375e7e4a9670dc",
+            "id": "01fc0e49e203ad38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primary Sources/Josephus/The Jewish War.md",
+                "file": "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 3 - The Historical Jesus.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Jewish War"
+              "title": "Lecture 3 - The Historical Jesus"
             }
           },
           {
-            "id": "1d30fd1956685737",
+            "id": "06ea43ed99be1fc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primary Sources/Josephus/Against Apion.md",
+                "file": "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 3 - The Historical Jesus.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,83 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Against Apion"
-            }
-          },
-          {
-            "id": "266c47e1cd30cdf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primary Sources/Josephus/Antiquities of the Jews.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Antiquities of the Jews"
-            }
-          },
-          {
-            "id": "628774b21069d5a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primary Sources/Josephus/The Jewish War.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Jewish War"
-            }
-          },
-          {
-            "id": "9c637ff5347cc954",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primary Sources/Josephus/Antiquities of the Jews.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Antiquities of the Jews"
+              "title": "Lecture 3 - The Historical Jesus"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -293,7 +221,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Primary Sources/Josephus/Antiquities of the Jews.md",
+                "file": "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 3 - The Historical Jesus.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -321,7 +249,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Antiquities of the Jews"
+              "title": "Graph of Lecture 3 - The Historical Jesus"
             }
           }
         ]
@@ -343,20 +271,27 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9c637ff5347cc954",
+  "active": "06ea43ed99be1fc4",
   "lastOpenFiles": [
+    "Primary Sources/Bible (NRSV, Hebrew, Greek)/Gospels.md",
+    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 3 - The Historical Jesus.md",
+    "Primary Sources/Bible (NRSV, Hebrew, Greek)/John.md",
+    "Primary Sources/Bible (NRSV, Hebrew, Greek)/Luke.md",
+    "Primary Sources/Bible (NRSV, Hebrew, Greek)/Mark.md",
+    "Primary Sources/Bible (NRSV, Hebrew, Greek)/Matthew.md",
+    "People/Josephus.md",
+    "People/Pontius Pilate.md",
+    "People/Constantine the Great.md",
+    "People/Pliny the Younger.md",
+    "People/Trajan.md",
     "Primary Sources/Josephus/Against Apion.md",
     "Primary Sources/Josephus/Antiquities of the Jews.md",
-    "Primary Sources/Josephus/index.md",
     "Primary Sources/Josephus/The Jewish War.md",
-    "People/Josephus.md",
-    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 3 - The Historical Jesus.md",
+    "Primary Sources/Josephus/index.md",
     "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 2 - The Religious World of Early Christianity.md",
-    "People/Pliny the Younger.md",
     "Roman.md",
     "Misc/Roman Empire/Roman Empire.md",
     "People/Jesus Christ.md",
-    "People/Trajan.md",
     "Misc/Roman Empire",
     "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 1 - The Birth of Christianity.md",
     "Christianity/Monasticism.md",
@@ -365,14 +300,7 @@
     "Topics/Monasticism.md",
     "Judaism/Ancient Judaism/Ancient Judaism.md",
     "Judaism/Torah & Tanakh Studies/Torah.md",
-    "Judaism/Ancient Judaism/Covenant.md",
-    "Systematic Theology/Eschatology/index.md",
-    "Primary Sources/Bible (NRSV, Hebrew, Greek)/index.md",
-    "Primary Sources/Bible (NRSV, Hebrew, Greek)/Deuteronomy.md",
     "Primary Sources/Bible (NRSV, Hebrew, Greek)/Old Testament",
-    "Primary Sources/Bible (NRSV, Hebrew, Greek)/Numbers.md",
-    "Primary Sources/Bible (NRSV, Hebrew, Greek)/Leviticus.md",
-    "Primary Sources/Bible (NRSV, Hebrew, Greek)/Exodus.md",
     "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Course Summary.pdf",
     ".md",
     "Tags",

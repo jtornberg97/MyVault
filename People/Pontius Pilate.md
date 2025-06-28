@@ -1,8 +1,8 @@
 ---
 type: person
-name: Trajan
+name: Pontius Pilate
 tradition: Roman Empire
-role: Emperor
+role: 
 field: 
 lifespan: ""
 key_works: 
@@ -13,7 +13,7 @@ date:
 aliases:
 ---
 
-# Trajan
+# Pontius Pilate
 
 ## Bio
 

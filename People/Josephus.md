@@ -22,11 +22,13 @@ aliases:
 # Josephus
 
 ## Bio
+- 
 
 ## Major Works
 
 - [[Antiquities of the Jews]]
 	- Multi-volume history of Judaism
+	- Mentions [[Jesus Christ|Jesus]] twice
 - [[The Jewish War]]
 - [[Against Apion]]
 

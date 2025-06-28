@@ -26,6 +26,10 @@ tags:
 	- First documented reference to Jesus by a [[Pagan]] source was a letter in 112 CE by a Governor in the [[Roman Empire]] named [[Pliny the Younger]]
 	- Then begins to appear more regularly
 - Jewish sources Exist written by [[Josephus]]
+	- 2 mentions of [[Jesus Christ|Jesus]]
+		- 1 occasion he says that Jesus was a person with a great following, got on the "bad side" of some Jewish leaders who turned him over to [[Pontius Pilate]] in ~93-94 CE
+			- Only reference to Jesus in the First Century CE
+- Stories of [[Jesus Christ|Jesus]] life were scarce outside of the [[Gospels]]
 
 ## Key Takeaways
 

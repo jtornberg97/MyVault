@@ -1,7 +1,7 @@
 ---
 type: person
 name: Pliny the Younger
-tradition: Christianity
+tradition: Roman Empire
 role: Governor
 field: 
 lifespan: 61 CE - 113 CE
