@@ -10,8 +10,8 @@ tags:
   - video
   - early-christianity
 ---
- # Lecture 1 - The Birth of Christianity
 
+# The Religious World of Early Christianity
 ## Speaker & Source
 - Speaker: [[Bart Ehrman]]
 - Source: https://www.thegreatcoursesplus.com/from-jesus-to-constantine-a-history-of-early-christianity

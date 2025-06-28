@@ -10,12 +10,16 @@ kanban-plugin: board
 	Israel - A Simple Guide to the Most Misunderstood Country on Earth https://share.libbyapp.com/title/5950061
 - [ ] **Concept**
 	New Interpretations of Paul
+- [ ] **Book**
+	Henry Chadwick - The Early Church
+- [ ] **Book**
+	Bart Ehrman - After the New Testament
 
 
 ## In Progress
 
 - [ ] **Course**
-	Ehrman - From Jesus to Constantine
+	Bart Ehrman - From Jesus to Constantine
 
 
 ## Done

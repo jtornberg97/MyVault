@@ -9,9 +9,10 @@ tags:
   - lecture
   - video
   - early-christianity
+aliases:
+  - Lecture 1 - The Birth of Christianity
 ---
- # Lecture 1 - The Birth of Christianity
-
+# The Birth of Early Christianity
 ## Speaker & Source
 - Speaker: [[Bart Ehrman]]
 - Source: https://www.thegreatcoursesplus.com/from-jesus-to-constantine-a-history-of-early-christianity
@@ -34,8 +35,16 @@ tags:
 - Ancient Christianity or Ancient Christianities?
 	- [[Orthodoxy]]: "Correct Belief
 	- [[Heresy]]: "Choice" (i.e. someone who chooses to believe the wrong thing)
-	- 
+	
 ## Key Takeaways
 
 - Christianity quickly grew from a small sect of Jewish followers in Galilee to a religion that dominated the [[Roman Empire]] and ultimately the world
 	- Catalyzed by the work of [[Paul]] and [[Constantine the Great|Constantine]]'s conversion
+
+## Recommended Readings
+1. Henry Chadwick, *The Early Church*
+2. [[Bart Ehrman]], *After the New Testament*, Chapter 1.
+
+Supplementary Reading: 
+1. Everett Ferguson, *Encyclopedia of Early Christianity* (articles on sundry topics).
+2. W. F. C. Frend, *The Rise of Christianity*.
