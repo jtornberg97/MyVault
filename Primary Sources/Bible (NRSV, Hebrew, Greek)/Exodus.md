@@ -1,6 +1,6 @@
 ---
 type: scripture-study
-title: "{{title}}"
+title: "Exodus"
 reference: ""
 version: NRSV
 topic: 
@@ -8,7 +8,7 @@ tags:
   - scripture
 ---
 
-# {{title}}
+# Exodus
 
 ## Key Passages
 

@@ -1,16 +1,17 @@
 ---
 type: scripture-study
-title: "{{title}}"
+title: "Genesis"
 reference: ""
 version: NRSV
 topic: 
 tags:
   - scripture
+date: {}
 ---
 
-# {{title}}
+# Genesis
 
-## Key Passages
+## Key Passage
 
 > Add passage manually or link from Bible.
 

@@ -1,6 +1,6 @@
 ---
 type: scripture-study
-title: "{{title}}"
+title: "Deuteronomy"
 reference: ""
 version: NRSV
 topic: 
@@ -8,7 +8,7 @@ tags:
   - scripture
 ---
 
-# {{title}}
+# Deuteronomy
 
 ## Key Passages
 

@@ -11,47 +11,27 @@
             "id": "26375e7e4a9670dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "2ced55f6728852de",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Course Summary.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Course Summary"
-            }
-          },
-          {
-            "id": "5e988a8688e62a2e",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "To Study.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
+                "file": "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 2 - The Religious World of Early Christianity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-trello",
-              "title": "To Study"
+              "icon": "lucide-file",
+              "title": "Lecture 2 - The Religious World of Early Christianity"
             }
           }
-        ],
-        "currentTab": 1,
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Course Summary.pdf",
+                "file": "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 2 - The Religious World of Early Christianity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -239,12 +219,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2769348933878716,
+                  "scale": 0.09617738815291473,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Course Summary"
+              "title": "Graph of Lecture 2 - The Religious World of Early Christianity"
             }
           }
         ]
@@ -266,43 +246,44 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2ced55f6728852de",
+  "active": "26375e7e4a9670dc",
   "lastOpenFiles": [
+    "Christianity/Monasticism.md",
+    "Judaism/Jewish Sects/Apocalyptic Jews.md",
+    "Judaism/Second Temple Judaism/Messiah.md",
+    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 2 - The Religious World of Early Christianity.md",
+    "Topics/Monasticism.md",
+    "Judaism/Ancient Judaism/Ancient Judaism.md",
+    "Judaism/Torah & Tanakh Studies/Torah.md",
+    "Judaism/Ancient Judaism/Covenant.md",
+    "Systematic Theology/Eschatology/index.md",
+    "Primary Sources/Bible (NRSV, Hebrew, Greek)/index.md",
+    "Primary Sources/Bible (NRSV, Hebrew, Greek)/Deuteronomy.md",
+    "Primary Sources/Bible (NRSV, Hebrew, Greek)/Old Testament",
+    "Primary Sources/Bible (NRSV, Hebrew, Greek)/Numbers.md",
+    "Primary Sources/Bible (NRSV, Hebrew, Greek)/Leviticus.md",
+    "Primary Sources/Bible (NRSV, Hebrew, Greek)/Exodus.md",
+    "Primary Sources/Bible (NRSV, Hebrew, Greek)/Genesis.md",
+    "Templates/Primary Source Note.md",
+    "Templates/Scripture Study Note.md",
+    "Systematic Theology/God (Theology Proper)/Monotheism.md",
+    "Systematic Theology/God (Theology Proper)/Henotheism.md",
+    "Christianity/Historical Christianity/Gentiles.md",
+    "Templates/Lecture Note.md",
+    "Templates/Person Note.md",
+    "People/Alexander the Great.md",
+    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Course Summary.pdf",
     "To Study.md",
     "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 1 - The Birth of Christianity.md",
-    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Course Summary.pdf",
-    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 2 - The Religious World of Early Christianity.md",
-    "People/Alexander the Great.md",
-    "Topics/Roman Empire.md",
-    "Christianity/Orthodoxy.md",
-    "Christianity/Historical Christianity/Historical Christianity.md",
-    "To Read  Watch  Listen.md",
-    "README.md",
+    "Misc/Roman Empire.md",
     ".md",
     "Tags",
-    "Primary Sources/Bible (NRSV, Hebrew, Greek)/index.md",
-    "People/Jesus Christ.md",
-    "Topics/Aramaic.md",
-    "Topics/Aramaic.md",
-    "Topics/Pax Deorum.md",
-    "Topics/Pagan.md",
-    "Topics/Cult.md",
-    "Hub/index.md",
-    "Topics/Cults.md",
-    "People/Constantine the Great.md",
-    "People/Paul.md",
-    "Christianity/Historical Christianity/Gentiles.md",
-    "Christianity/Heresy.md",
-    "Christianity/Christianity.md",
-    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Untitled.md",
-    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity.md",
     "Resources/Maps",
     "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity",
     "Untitled",
     "Christianity/Historical Christianity",
     "Christianity/Church Fathers",
     "Christianity/New Testament Studies",
-    "Christianity/Reformation",
     "quartz/node_modules/cli-spinner/img/spinner.gif",
     "quartz/node_modules/gifuct-js/demo/jblack.gif",
     "quartz/node_modules/gifuct-js/demo/dog.gif",

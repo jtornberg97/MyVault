@@ -10,7 +10,7 @@ tags: []
 ## 📄 Notes
 ```dataview
 table file.name as "Note", file.mtime as "Last Modified"
-from "Bible (NRSV, Hebrew, Greek)"
+from "Primary Sources/Bible (NRSV, Hebrew, Greek)"
 where file.name != "index"
 sort file.mtime desc
 ```

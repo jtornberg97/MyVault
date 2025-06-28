@@ -4,7 +4,8 @@ title: "{{title}}"
 author: ""
 date: ""
 text: ""
-tags: [primary-source]
+tags:
+  - primary-source
 ---
 
 # {{title}}

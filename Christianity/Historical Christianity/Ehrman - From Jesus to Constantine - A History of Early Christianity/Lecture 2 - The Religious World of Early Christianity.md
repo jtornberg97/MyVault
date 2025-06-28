@@ -34,6 +34,22 @@ tags:
 - Doctrine was not a major issue in [[Pagan]] religion
 	- As a result, religions were highly tolerant of one another
 - [[Judaism]] only made up ~7% of the Roman Empire
+	- Spread across empire, not just in Palestine
+- [[Henotheism]] vs [[Monotheism]] 
+	- By one of the ten commandments being "you shall worship no other Gods before me", the implication is that Jews may have been worshipping other gods i.e. [[Pagan]]
+- Having scriptural authority made [[Judaism]] unique among early religions
+	- [[Torah]] - First 5 books of the Old Testament outlined the rules for Early Jews to follow and how he had made a [[Covenant]] with them
+- [[Torah]] was not seen as a burden but a gift 
+		
+> [!quote] Jewish Interpretation of the Laws of the [[Torah]] - [[Bart Ehrman|Ehrman]]
+> "The one God who created the world has chosen us as his people and has given us his law that we should follow"
+
+ - Jewish Law/Religion has a greater focus on ethics than [[Pagan]] religions
+ - Diversity in [[Ancient Judaism]]
+	 - Some jews were more interested in adhering to the Temple Cult (i.e sacrifices)
+	 - Others stressed importance of keeping the laws given by God in the [[Torah]]
+	 - Some emphasized staying pure in front of God (i.e. early [[Monasticism]])
+	 - Others were focused on the coming intervention of God (i.e [[Apocalyptic Jews]])
 
 ## Key Takeaways
 

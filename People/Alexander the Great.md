@@ -11,8 +11,7 @@ tags:
 date:
   "{ date }": 
 aliases:
-  - Alexander
-  - Alexander of Macedon
+  - Alexander the Great
 ---
 
 # Alexander the Great

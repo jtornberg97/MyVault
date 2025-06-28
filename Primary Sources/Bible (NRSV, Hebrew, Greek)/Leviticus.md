@@ -1,6 +1,6 @@
 ---
 type: scripture-study
-title: "{{title}}"
+title: "Leviticus"
 reference: ""
 version: NRSV
 topic: 
@@ -8,7 +8,7 @@ tags:
   - scripture
 ---
 
-# {{title}}
+# Leviticus
 
 ## Key Passages
 
