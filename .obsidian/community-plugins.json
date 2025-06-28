@@ -5,5 +5,6 @@
   "auto-scripture-linker",
   "tag-wrangler",
   "make-md",
-  "convert-url-to-iframe"
+  "convert-url-to-iframe",
+  "obsidian-kanban"
 ]
