@@ -9,6 +9,8 @@ tags:
   - lecture
   - video
   - early-christianity
+  - ancient-judaism
+  - second-temple-judaism
 ---
 
 # The Religious World of Early Christianity
@@ -53,4 +55,4 @@ tags:
 
 ## Key Takeaways
 
-- 
+- There was a lot of religious diversity in the Roman World, Judaism was just a small mostly regional religion. Paganism and Cult worship were prominent and offered practical Gods for everyday needs. While Jewish believes varied, the common threads were monotheism, the Torah, and Jewish Law.

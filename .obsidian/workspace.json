@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 2 - The Religious World of Early Christianity.md",
+                "file": "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 3 - The Historical Jesus.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lecture 2 - The Religious World of Early Christianity"
+              "title": "Lecture 3 - The Historical Jesus"
             }
           }
         ]
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 2 - The Religious World of Early Christianity.md",
+                "file": "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 3 - The Historical Jesus.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,12 +219,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.09617738815291473,
+                  "scale": 0.15592475224694086,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Lecture 2 - The Religious World of Early Christianity"
+              "title": "Graph of Lecture 3 - The Historical Jesus"
             }
           }
         ]
@@ -246,12 +246,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "26375e7e4a9670dc",
+  "active": "1999b2bb41690748",
   "lastOpenFiles": [
+    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 2 - The Religious World of Early Christianity.md",
+    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 3 - The Historical Jesus.md",
+    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 1 - The Birth of Christianity.md",
     "Christianity/Monasticism.md",
     "Judaism/Jewish Sects/Apocalyptic Jews.md",
     "Judaism/Second Temple Judaism/Messiah.md",
-    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 2 - The Religious World of Early Christianity.md",
     "Topics/Monasticism.md",
     "Judaism/Ancient Judaism/Ancient Judaism.md",
     "Judaism/Torah & Tanakh Studies/Torah.md",
@@ -274,8 +276,6 @@
     "People/Alexander the Great.md",
     "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Course Summary.pdf",
     "To Study.md",
-    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 1 - The Birth of Christianity.md",
-    "Misc/Roman Empire.md",
     ".md",
     "Tags",
     "Resources/Maps",
