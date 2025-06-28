@@ -9,7 +9,7 @@
   "noteThumbnails": false,
   "spacesMDBInHidden": true,
   "cacheIndex": true,
-  "spacesRightSplit": false,
+  "spacesRightSplit": true,
   "contextEnabled": true,
   "spaceViewEnabled": true,
   "saveAllContextToFrontmatter": true,

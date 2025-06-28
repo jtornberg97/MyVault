@@ -21,20 +21,24 @@
             "id": "2ced55f6728852de",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "To Study.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
+                "file": "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 1 - The Birth of Christianity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-trello",
-              "title": "To Study"
+              "icon": "lucide-file",
+              "title": "Lecture 1 - The Birth of Christianity"
             }
           },
           {
@@ -189,12 +193,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To Study.md",
+                "file": "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 1 - The Birth of Christianity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from To Study"
+              "title": "Outgoing links from Lecture 1 - The Birth of Christianity"
             }
           },
           {
@@ -218,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Study.md",
+                "file": "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 1 - The Birth of Christianity.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of To Study"
+              "title": "Outline of Lecture 1 - The Birth of Christianity"
             }
           },
           {
@@ -251,7 +255,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "To Study.md",
+                "file": "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 1 - The Birth of Christianity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,12 +278,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.39487308372050517,
+                  "scale": 0.08749535921658168,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of To Study"
+              "title": "Graph of Lecture 1 - The Birth of Christianity"
             }
           }
         ]
@@ -301,10 +305,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1999b2bb41690748",
+  "active": "2ced55f6728852de",
   "lastOpenFiles": [
-    "To Read  Watch  Listen.md",
+    "Christianity/Historical Christianity/Historical Christianity.md",
     "To Study.md",
+    "To Read  Watch  Listen.md",
     "README.md",
     ".md",
     "Tags",
@@ -331,7 +336,6 @@
     "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity.md",
     "Course Summary.md",
     "Christianity/index.md",
-    "Christianity/New Testament Studies/index.md",
     "Resources/Maps",
     "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity",
     "Untitled",
