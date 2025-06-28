@@ -10,7 +10,7 @@ tags: [josephus]
 ## 📄 Notes
 ```dataview
 table file.name as "Note", file.mtime as "Last Modified"
-from "Josephus"
+from "Primary Sources/Josephus"
 where file.name != "index"
 sort file.mtime desc
 ```

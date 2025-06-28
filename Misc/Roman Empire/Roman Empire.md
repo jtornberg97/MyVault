@@ -8,6 +8,8 @@ tags:
   - topic
   - roman-empire
 date: 2025-06-26
+aliases:
+  - Roman
 ---
 
 # Roman Empire

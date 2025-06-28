@@ -13,6 +13,7 @@ date:
 aliases:
   - Jesus
   - Jesus of Nazareth
+  - Christ
 ---
 
 # Jesus Christ
