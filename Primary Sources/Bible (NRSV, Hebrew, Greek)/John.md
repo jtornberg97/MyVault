@@ -7,7 +7,6 @@ topic:
 tags:
   - scripture
   - gospels
-  - synoptic-gospels
 ---
 
 # John

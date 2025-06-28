@@ -7,6 +7,7 @@ topic:
 tags:
   - scripture
   - gospels
+  - synoptic-gospels
 ---
 
 # Luke

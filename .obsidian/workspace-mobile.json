@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systematic Theology/God (Theology Proper)/Monotheism.md",
+                "file": "Primary Sources/Bible (NRSV, Hebrew, Greek)/Luke.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Monotheism"
+              "title": "Luke"
             }
           }
         ],
@@ -205,7 +205,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Systematic Theology/God (Theology Proper)/Monotheism.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -224,7 +223,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Systematic Theology/God (Theology Proper)/Monotheism.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -238,7 +236,6 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Systematic Theology/God (Theology Proper)/Monotheism.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -251,10 +248,13 @@
         "id": "04e90efb40d6d888",
         "type": "leaf",
         "state": {
-          "type": "mk-path-view",
-          "state": {},
-          "icon": "layout-grid",
-          "title": "Navigator"
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -265,6 +265,16 @@
           "state": {},
           "icon": "git-pull-request",
           "title": "Source Control"
+        }
+      },
+      {
+        "id": "77da54fc6e0f7cff",
+        "type": "leaf",
+        "state": {
+          "type": "mk-path-view",
+          "state": {},
+          "icon": "layout-grid",
+          "title": "Navigator"
         }
       }
     ],
@@ -285,6 +295,8 @@
   },
   "active": "f9dc08744ebfc15d",
   "lastOpenFiles": [
+    "Primary Sources/Bible (NRSV, Hebrew, Greek)/John.md",
+    "Systematic Theology/God (Theology Proper)/Monotheism.md",
     "People/Bart Ehrman.md",
     "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 1 - The Birth of Christianity.md",
     "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Matthew.md",
