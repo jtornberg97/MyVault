@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 3 - The Historical Jesus.md",
+                "file": "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Matthew.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lecture 3 - The Historical Jesus"
+              "title": "Matthew"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -244,7 +243,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.15592475224694086,
+                  "scale": 0.23949350624303734,
                   "close": true
                 }
               },
@@ -271,11 +270,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "06ea43ed99be1fc4",
+  "active": "01fc0e49e203ad38",
   "lastOpenFiles": [
-    "Primary Sources/Bible (NRSV, Hebrew, Greek)/Gospels.md",
-    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 3 - The Historical Jesus.md",
+    "Tags/#topic",
     "Primary Sources/Bible (NRSV, Hebrew, Greek)/John.md",
+    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 3 - The Historical Jesus.md",
+    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Matthew.md",
+    "Primary Sources/Bible (NRSV, Hebrew, Greek)/Gospels.md",
     "Primary Sources/Bible (NRSV, Hebrew, Greek)/Luke.md",
     "Primary Sources/Bible (NRSV, Hebrew, Greek)/Mark.md",
     "Primary Sources/Bible (NRSV, Hebrew, Greek)/Matthew.md",
@@ -298,8 +299,6 @@
     "Judaism/Jewish Sects/Apocalyptic Jews.md",
     "Judaism/Second Temple Judaism/Messiah.md",
     "Topics/Monasticism.md",
-    "Judaism/Ancient Judaism/Ancient Judaism.md",
-    "Judaism/Torah & Tanakh Studies/Torah.md",
     "Primary Sources/Bible (NRSV, Hebrew, Greek)/Old Testament",
     "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Course Summary.pdf",
     ".md",

@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Systematic Theology/God (Theology Proper)/Monotheism.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Monotheism"
             }
           }
         ],
@@ -191,16 +191,6 @@
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
-      },
-      {
-        "id": "fdc4241393325372",
-        "type": "leaf",
-        "state": {
-          "type": "mk-path-view",
-          "state": {},
-          "icon": "layout-grid",
-          "title": "Navigator"
-        }
       }
     ],
     "currentTab": 0
@@ -215,6 +205,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Systematic Theology/God (Theology Proper)/Monotheism.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -233,6 +224,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Systematic Theology/God (Theology Proper)/Monotheism.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -246,6 +238,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "Systematic Theology/God (Theology Proper)/Monotheism.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -253,12 +246,33 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "04e90efb40d6d888",
+        "type": "leaf",
+        "state": {
+          "type": "mk-path-view",
+          "state": {},
+          "icon": "layout-grid",
+          "title": "Navigator"
+        }
+      },
+      {
+        "id": "8240688cc4c65898",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
@@ -271,6 +285,11 @@
   },
   "active": "f9dc08744ebfc15d",
   "lastOpenFiles": [
+    "People/Bart Ehrman.md",
+    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 1 - The Birth of Christianity.md",
+    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Matthew.md",
+    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 3 - The Historical Jesus.md",
+    "Tags/#topic",
     "Untitled.md",
     "Tags"
   ]
