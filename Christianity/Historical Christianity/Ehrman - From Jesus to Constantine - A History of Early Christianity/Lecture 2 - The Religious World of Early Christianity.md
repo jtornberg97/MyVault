@@ -1,6 +1,6 @@
 ---
 type: lecture-note
-title: The Birth of Christianity
+title: The Religious World of Early Christianity
 speaker: "[[Bart Ehrman]]"
 source: https://www.thegreatcoursesplus.com/from-jesus-to-constantine-a-history-of-early-christianity
 date: 2025-06-26

@@ -1,6 +1,6 @@
 ---
 type: lecture-note
-title: The Birth of Christianity
+title: The Historical Jesus
 speaker: "[[Bart Ehrman]]"
 source: https://www.thegreatcoursesplus.com/from-jesus-to-constantine-a-history-of-early-christianity
 date: 2025-06-27
@@ -12,6 +12,8 @@ tags:
   - ancient-judaism
   - second-temple-judaism
   - Jesus
+  - apocalypticism
+  - messianic-expectations
 ---
 
 # The Historical Jesus
@@ -42,7 +44,20 @@ tags:
 	- [[Bart Ehrman|Ehrman]] argues that [[Jesus Christ|Jesus]] was an [[Apocalyptic]] teacher
 	- i.e. [[Dead Sea Scrolls]]
 	- Mark 1:15  ([[Mark]]) is the first teaching of Jesus, suggests that the Kingdom of God is at hand
-- 
+- [[Jesus Christ|Jesus]] referred to the coming Messiah as the [[Son of Man]]
+	- In [[Daniel]], Prophet sees beasts coming to destroy but the [[Son of Man]] comes down and reigns
+	- Mark 8:38 ([[Mark]])
+	- Mark 9:1 ([[Mark]])
+	- Coming judgement brings destruction of world order, reversal of fortunes
+	- Appears to have expected this all to happen within his own generation
+- [[Bart Ehrman|Ehrman]] argues that his ethical teachings were meant to prepare people for the coming kingdom in their lifetimes
+- Jesus went to Jerusalem (i.e. heart of Judaism) in the last week of his life to share his teachings during [[Passover]]
+	- Showing that the coming Kingdom would apply to [[Sadducees]]
+	- [[Sadducees]] were trying to prevent an uprising during [[Passover]] as these had happened before
+	- Handed Jesus over to [[Pontius Pilate]]
+- Unlike all other [[Apocalyptic Jews|Apocalyptic]] teachers at the time, Jesus has followers who continued to believe him after his death (i.e. resurrection)
 
 ## Key Takeaways
+- During the Second Temple period, Apocalypticism was not uncommon. Jesus was unique  because his followers were convinced that he rose from the dead.
 - Question - [[Link between Apocalypticism and Gnosticism]]
+- Question - [[How to Apply Ethics Taught By Jesus]]

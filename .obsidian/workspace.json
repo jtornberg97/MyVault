@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 3 - The Historical Jesus.md",
+                "file": "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 2 - The Religious World of Early Christianity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lecture 3 - The Historical Jesus"
+              "title": "Lecture 2 - The Religious World of Early Christianity"
+            }
+          },
+          {
+            "id": "f770e56aecc834f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to Apply Ethics Taught By Jesus.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "How to Apply Ethics Taught By Jesus"
+            }
+          },
+          {
+            "id": "fa54d86ad9d86ff1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primary Sources/Bible (NRSV, Hebrew, Greek)/Exodus.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Exodus"
             }
           }
         ]
@@ -196,7 +244,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 3 - The Historical Jesus.md",
+                "file": "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 2 - The Religious World of Early Christianity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,7 +272,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Lecture 3 - The Historical Jesus"
+              "title": "Graph of Lecture 2 - The Religious World of Early Christianity"
             }
           }
         ]
@@ -246,10 +294,21 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1999b2bb41690748",
+  "active": "01fc0e49e203ad38",
   "lastOpenFiles": [
-    "Primary Sources/Bible (NRSV, Hebrew, Greek)/Mark.md",
+    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 1 - The Birth of Christianity.md",
+    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 4 - Oral and Written Traditions about Jesus.md",
     "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 3 - The Historical Jesus.md",
+    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 2 - The Religious World of Early Christianity.md",
+    "People/Pontius Pilate.md",
+    "Judaism/Second Temple Judaism/Sadducees.md",
+    "Judaism/Passover.md",
+    "How to Apply Ethics Taught By Jesus.md",
+    "Primary Sources/Bible (NRSV, Hebrew, Greek)/Exodus.md",
+    "Primary Sources/Bible (NRSV, Hebrew, Greek)/Daniel.md",
+    "Primary Sources/Bible (NRSV, Hebrew, Greek)/John.md",
+    "Christianity/Son of Man.md",
+    "Primary Sources/Bible (NRSV, Hebrew, Greek)/Mark.md",
     "People/Bart Ehrman.md",
     "Questions/Link between Apocalypticism and Gnosticism.md",
     "Christianity/Historical Christianity/Gnostic.md",
@@ -259,23 +318,12 @@
     "Judaism/Second Temple Judaism/Second Temple Period.md",
     "Judaism/Jewish Sects/Apocalyptic Jews.md",
     "Judaism/Jewish Sects/Essenes.md",
-    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 2 - The Religious World of Early Christianity.md",
-    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 1 - The Birth of Christianity.md",
-    "Primary Sources/Bible (NRSV, Hebrew, Greek)/John.md",
     "Primary Sources/Bible (NRSV, Hebrew, Greek)/Luke.md",
     "Primary Sources/Bible (NRSV, Hebrew, Greek)/Matthew.md",
     "Templates/General Topic.md",
     "Primary Sources/Josephus/Against Apion.md",
     "People/Matthew.md",
-    "Primary Sources/Bible (NRSV, Hebrew, Greek)/Gospels.md",
     "Tags/#topic",
-    "People/Josephus.md",
-    "People/Pontius Pilate.md",
-    "People/Constantine the Great.md",
-    "People/Pliny the Younger.md",
-    "People/Trajan.md",
-    "Primary Sources/Josephus/Antiquities of the Jews.md",
-    "Primary Sources/Josephus/The Jewish War.md",
     "Misc/Roman Empire",
     "Primary Sources/Bible (NRSV, Hebrew, Greek)/Old Testament",
     "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Course Summary.pdf",
