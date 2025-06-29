@@ -37,8 +37,9 @@ tags:
 	- [[Gospels|Gospel]] = Good News not historical fact
 	- Hard to know what is historically accurate vs what has been changed to fit the church's theology
 - [[Mark]] is likely the most historically accurate [[Gospels|Gospel]] as it was the first one written
-- [[Apocalyptic Jews|Apocalypticism]]
+- [[Apocalyptic Jews|Apocalypticism]] was a widespread movement in early Judaism including in and around the time of Jesus 
+	- [[Bart Ehrman|Ehrman]] defines as "The belief that the present age was ruled by forces of evil, and that God would soon overthrow them in a cataclysmic act of judgement to bring in a Utopian Kingdom ruled by his own [[Messiah]]"
+	- i.e. [[Dead Sea Scrolls]]
 
 ## Key Takeaways
-
-- 
+- Question - [[Link between Apocalypticism and Gnosticism]]

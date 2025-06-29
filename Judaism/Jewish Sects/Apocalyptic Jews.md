@@ -6,6 +6,8 @@ region: Judea
 time_period: Antiquity
 tags:
   - topic
+  - apocalypticism
+  - jewish-sects
 date:
   "{ date }": 
 aliases:

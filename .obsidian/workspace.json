@@ -30,30 +30,6 @@
               "icon": "lucide-file",
               "title": "Lecture 3 - The Historical Jesus"
             }
-          },
-          {
-            "id": "06ea43ed99be1fc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Matthew.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Matthew"
-            }
           }
         ]
       }
@@ -243,7 +219,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.23949350624303734,
+                  "scale": 0.0782663990101061,
                   "close": true
                 }
               },
@@ -270,10 +246,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "01fc0e49e203ad38",
+  "active": "127c1fd0fb5624a6",
   "lastOpenFiles": [
-    "Judaism/Jewish Sects/Apocalyptic Jews.md",
+    "People/Bart Ehrman.md",
     "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 3 - The Historical Jesus.md",
+    "Questions/Link between Apocalypticism and Gnosticism.md",
+    "Christianity/Historical Christianity/Gnostic.md",
+    "Christianity/Gnostic.md",
+    "Questions",
+    "Primary Sources/Dead Sea Scrolls/Dead Sea Scrolls.md",
+    "Judaism/Second Temple Judaism/Second Temple Period.md",
+    "Judaism/Jewish Sects/Apocalyptic Jews.md",
+    "Judaism/Jewish Sects/Essenes.md",
     "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 2 - The Religious World of Early Christianity.md",
     "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 1 - The Birth of Christianity.md",
     "Primary Sources/Bible (NRSV, Hebrew, Greek)/John.md",
@@ -292,21 +276,13 @@
     "People/Trajan.md",
     "Primary Sources/Josephus/Antiquities of the Jews.md",
     "Primary Sources/Josephus/The Jewish War.md",
-    "Primary Sources/Josephus/index.md",
-    "Roman.md",
-    "Misc/Roman Empire/Roman Empire.md",
-    "People/Jesus Christ.md",
     "Misc/Roman Empire",
-    "Christianity/Monasticism.md",
-    "Judaism/Second Temple Judaism/Messiah.md",
-    "Topics/Monasticism.md",
     "Primary Sources/Bible (NRSV, Hebrew, Greek)/Old Testament",
     "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Course Summary.pdf",
     ".md",
     "Tags",
     "Resources/Maps",
     "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity",
-    "Untitled",
     "Christianity/Historical Christianity",
     "quartz/node_modules/cli-spinner/img/spinner.gif",
     "quartz/node_modules/gifuct-js/demo/jblack.gif",
