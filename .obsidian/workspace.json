@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:bible-(nrsv)",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -219,7 +219,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.0782663990101061,
+                  "scale": 0.19226975676567756,
                   "close": true
                 }
               },
@@ -246,10 +246,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "127c1fd0fb5624a6",
+  "active": "1999b2bb41690748",
   "lastOpenFiles": [
-    "People/Bart Ehrman.md",
+    "Primary Sources/Bible (NRSV, Hebrew, Greek)/Mark.md",
     "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 3 - The Historical Jesus.md",
+    "People/Bart Ehrman.md",
     "Questions/Link between Apocalypticism and Gnosticism.md",
     "Christianity/Historical Christianity/Gnostic.md",
     "Christianity/Gnostic.md",
@@ -262,7 +263,6 @@
     "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 1 - The Birth of Christianity.md",
     "Primary Sources/Bible (NRSV, Hebrew, Greek)/John.md",
     "Primary Sources/Bible (NRSV, Hebrew, Greek)/Luke.md",
-    "Primary Sources/Bible (NRSV, Hebrew, Greek)/Mark.md",
     "Primary Sources/Bible (NRSV, Hebrew, Greek)/Matthew.md",
     "Templates/General Topic.md",
     "Primary Sources/Josephus/Against Apion.md",

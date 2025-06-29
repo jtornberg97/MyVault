@@ -39,7 +39,10 @@ tags:
 - [[Mark]] is likely the most historically accurate [[Gospels|Gospel]] as it was the first one written
 - [[Apocalyptic Jews|Apocalypticism]] was a widespread movement in early Judaism including in and around the time of Jesus 
 	- [[Bart Ehrman|Ehrman]] defines as "The belief that the present age was ruled by forces of evil, and that God would soon overthrow them in a cataclysmic act of judgement to bring in a Utopian Kingdom ruled by his own [[Messiah]]"
+	- [[Bart Ehrman|Ehrman]] argues that [[Jesus Christ|Jesus]] was an [[Apocalyptic]] teacher
 	- i.e. [[Dead Sea Scrolls]]
+	- Mark 1:15  ([[Mark]]) is the first teaching of Jesus, suggests that the Kingdom of God is at hand
+- 
 
 ## Key Takeaways
 - Question - [[Link between Apocalypticism and Gnosticism]]
