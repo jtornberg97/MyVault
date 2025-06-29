@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primary Sources/Bible (NRSV, Hebrew, Greek)/John.md",
+                "file": "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 3 - The Historical Jesus.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "John"
+              "title": "Lecture 3 - The Historical Jesus"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Matthew.md",
+                "file": "People/Matthew.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -220,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Primary Sources/Bible (NRSV, Hebrew, Greek)/John.md",
+                "file": "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 3 - The Historical Jesus.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -248,7 +248,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of John"
+              "title": "Graph of Lecture 3 - The Historical Jesus"
             }
           }
         ]
@@ -272,31 +272,32 @@
   },
   "active": "01fc0e49e203ad38",
   "lastOpenFiles": [
+    "Judaism/Jewish Sects/Apocalyptic Jews.md",
     "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 3 - The Historical Jesus.md",
-    "Tags/#topic",
+    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 2 - The Religious World of Early Christianity.md",
+    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 1 - The Birth of Christianity.md",
     "Primary Sources/Bible (NRSV, Hebrew, Greek)/John.md",
-    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Matthew.md",
-    "Primary Sources/Bible (NRSV, Hebrew, Greek)/Gospels.md",
     "Primary Sources/Bible (NRSV, Hebrew, Greek)/Luke.md",
     "Primary Sources/Bible (NRSV, Hebrew, Greek)/Mark.md",
     "Primary Sources/Bible (NRSV, Hebrew, Greek)/Matthew.md",
+    "Templates/General Topic.md",
+    "Primary Sources/Josephus/Against Apion.md",
+    "People/Matthew.md",
+    "Primary Sources/Bible (NRSV, Hebrew, Greek)/Gospels.md",
+    "Tags/#topic",
     "People/Josephus.md",
     "People/Pontius Pilate.md",
     "People/Constantine the Great.md",
     "People/Pliny the Younger.md",
     "People/Trajan.md",
-    "Primary Sources/Josephus/Against Apion.md",
     "Primary Sources/Josephus/Antiquities of the Jews.md",
     "Primary Sources/Josephus/The Jewish War.md",
     "Primary Sources/Josephus/index.md",
-    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 2 - The Religious World of Early Christianity.md",
     "Roman.md",
     "Misc/Roman Empire/Roman Empire.md",
     "People/Jesus Christ.md",
     "Misc/Roman Empire",
-    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 1 - The Birth of Christianity.md",
     "Christianity/Monasticism.md",
-    "Judaism/Jewish Sects/Apocalyptic Jews.md",
     "Judaism/Second Temple Judaism/Messiah.md",
     "Topics/Monasticism.md",
     "Primary Sources/Bible (NRSV, Hebrew, Greek)/Old Testament",

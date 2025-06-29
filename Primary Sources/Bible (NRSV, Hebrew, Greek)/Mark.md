@@ -8,6 +8,8 @@ tags:
   - scripture
   - gospels
   - synoptic-gospels
+date: 
+time_period:
 ---
 
 # Mark
@@ -17,6 +19,15 @@ tags:
 > Add passage manually or link from Bible.
 
 ## Context
+- First Gospel written ~70 CE
+# Mark
+
+## Summary
+
+## Context & Background
+
+## Key Themes
+
 
 ## Interpretation
 

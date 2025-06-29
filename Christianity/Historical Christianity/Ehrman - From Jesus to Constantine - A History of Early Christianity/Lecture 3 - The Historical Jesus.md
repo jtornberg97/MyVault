@@ -31,7 +31,13 @@ tags:
 			- Only reference to Jesus in the First Century CE
 - Stories of [[Jesus Christ|Jesus]] life were scarce outside of the [[Gospels]]
 - [[Gospels]] are hard for historians
-	- Anonymous, been ascribed to [[Matthew]] (disciple), [[John]] (disciple), Mark (secretary for [[Peter]])
+	- Anonymous, been ascribed to [[People/Matthew]] (disciple), [[John]] (disciple), Mark (secretary for [[Peter]])
+	- Written in [[Greek]] but [[Jesus Christ|Jesus]] spoke [[Aramaic]]
+	- Based on oral tradition
+	- [[Gospels|Gospel]] = Good News not historical fact
+	- Hard to know what is historically accurate vs what has been changed to fit the church's theology
+- [[Mark]] is likely the most historically accurate [[Gospels|Gospel]] as it was the first one written
+- [[Apocalyptic Jews|Apocalypticism]]
 
 ## Key Takeaways
 

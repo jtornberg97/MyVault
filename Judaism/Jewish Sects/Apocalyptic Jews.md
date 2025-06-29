@@ -10,6 +10,7 @@ date:
   "{ date }": 
 aliases:
   - Apocalyptic
+  - Apocalypticism
 ---
 
 # Apocalyptic Jews

@@ -1,6 +1,6 @@
 ---
 type: topic
-title: "Gospels"
+title: Gospels
 category: ""
 region: ""
 time_period: ""
@@ -9,13 +9,15 @@ tags:
 date:
   "{ date }": 
 aliases:
+  - Gospel
 ---
 
 # Gospels
 
 ## Overview
 
-- 4 books of the Bible that show [[Jesus Christ|Jesus]]'s life: [[Matthew]], [[Mark]], [[Luke]], [[John]]
+- Gospel = Good news
+- 4 books of the Bible that show [[Jesus Christ|Jesus]]'s life: [[Primary Sources/Bible (NRSV, Hebrew, Greek)/Matthew]], [[Mark]], [[Luke]], [[John]]
 
 ## Historical or Cultural Context
 
