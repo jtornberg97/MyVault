@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 2 - The Religious World of Early Christianity.md",
+                "file": "People/David.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lecture 2 - The Religious World of Early Christianity"
+              "title": "David"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to Apply Ethics Taught By Jesus.md",
+                "file": "Questions/How to Apply Ethics Taught By Jesus.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -244,7 +244,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 2 - The Religious World of Early Christianity.md",
+                "file": "People/David.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -267,12 +267,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.19226975676567756,
+                  "scale": 0.1232586610973318,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Lecture 2 - The Religious World of Early Christianity"
+              "title": "Graph of David"
             }
           }
         ]
@@ -296,33 +296,33 @@
   },
   "active": "01fc0e49e203ad38",
   "lastOpenFiles": [
-    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 1 - The Birth of Christianity.md",
+    "People/Moses.md",
+    "People/Maimonides.md",
+    "People/Jeremiah.md",
+    "People/Isaiah.md",
+    "People/Daniel.md",
+    "People/David.md",
+    "People/Augustine of Hippo.md",
+    "People/Clement of Alexandria.md",
+    "People/Trajan.md",
+    "Templates/Person Note.md",
+    "People/Paul the Apostle.md",
+    "People/index.md",
+    "People/Bart Ehrman.md",
     "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 4 - Oral and Written Traditions about Jesus.md",
-    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 3 - The Historical Jesus.md",
     "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 2 - The Religious World of Early Christianity.md",
+    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 1 - The Birth of Christianity.md",
+    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Lecture 3 - The Historical Jesus.md",
     "People/Pontius Pilate.md",
     "Judaism/Second Temple Judaism/Sadducees.md",
     "Judaism/Passover.md",
-    "How to Apply Ethics Taught By Jesus.md",
+    "Questions/How to Apply Ethics Taught By Jesus.md",
     "Primary Sources/Bible (NRSV, Hebrew, Greek)/Exodus.md",
     "Primary Sources/Bible (NRSV, Hebrew, Greek)/Daniel.md",
     "Primary Sources/Bible (NRSV, Hebrew, Greek)/John.md",
     "Christianity/Son of Man.md",
     "Primary Sources/Bible (NRSV, Hebrew, Greek)/Mark.md",
-    "People/Bart Ehrman.md",
-    "Questions/Link between Apocalypticism and Gnosticism.md",
-    "Christianity/Historical Christianity/Gnostic.md",
-    "Christianity/Gnostic.md",
     "Questions",
-    "Primary Sources/Dead Sea Scrolls/Dead Sea Scrolls.md",
-    "Judaism/Second Temple Judaism/Second Temple Period.md",
-    "Judaism/Jewish Sects/Apocalyptic Jews.md",
-    "Judaism/Jewish Sects/Essenes.md",
-    "Primary Sources/Bible (NRSV, Hebrew, Greek)/Luke.md",
-    "Primary Sources/Bible (NRSV, Hebrew, Greek)/Matthew.md",
-    "Templates/General Topic.md",
-    "Primary Sources/Josephus/Against Apion.md",
-    "People/Matthew.md",
     "Tags/#topic",
     "Misc/Roman Empire",
     "Primary Sources/Bible (NRSV, Hebrew, Greek)/Old Testament",
