@@ -6,7 +6,7 @@ tags: [start, overview, help]
 
 # 🚀 Start Here
 
-Welcome to your research vault on Christianity, Judaism, and Theology. Here's how to get oriented.
+My Obsidian Vault focused on researching the things I care about. 
 
 ---
 
@@ -36,5 +36,5 @@ limit 10
 
 - 🔍 **Search**: Use `Cmd+O` or `Cmd+P` to open any note by name
 - 🧭 **Navigation**: Start with the [[README]] for a dashboard overview
-- 🧩 **Templates**: Use the [[Templates/index]] to create new notes
+- 🧩 **Templates**: Use the [[Hub - Templates]] to create new notes
 - 📊 **Dashboards**: Find recent work in index files

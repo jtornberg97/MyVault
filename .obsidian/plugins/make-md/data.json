@@ -39,7 +39,14 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//Christianity"
+    "//Systematic Theology/Systematic Theology/Christology",
+    "//Systematic Theology/Systematic Theology/Ecclesiology",
+    "//Systematic Theology/Systematic Theology/Eschatology",
+    "//Systematic Theology/Systematic Theology/God (Theology Proper)",
+    "//Systematic Theology/Systematic Theology/Soteriology",
+    "//Systematic Theology/Systematic Theology/Pneumatology",
+    "//Systematic Theology/Systematic Theology/Bibliology",
+    "//Tags"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

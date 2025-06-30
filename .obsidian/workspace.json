@@ -18,27 +18,27 @@
             }
           },
           {
-            "id": "1eb1a51e44d7dd98",
-            "type": "leaf",
-            "state": {
-              "type": "mk-uri-view",
-              "state": {
-                "path": "https://www.make.md/static/latest.md"
-              },
-              "icon": "lucide-file",
-              "title": "https://www.make.md/static/latest.md"
-            }
-          },
-          {
             "id": "558e2cb97fa04bb2",
             "type": "leaf",
             "state": {
-              "type": "mk-uri-view",
+              "type": "markdown",
               "state": {
-                "path": "https://www.make.md/static/GetStarted.md"
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "https://www.make.md/static/GetStarted.md"
+              "title": "README"
             }
           },
           {
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,7 @@
             }
           },
           {
-            "id": "26980ebf662c6f61",
+            "id": "38cbe1c2f541837c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -256,6 +256,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -283,7 +284,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of README"
             }
           }
         ]
@@ -305,43 +306,43 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "558e2cb97fa04bb2",
+  "active": "38cbe1c2f541837c",
   "lastOpenFiles": [
-    "People/David.md",
-    "Judaism/Torah & Tanakh Studies/4 Ezra.md",
-    "Judaism/Torah & Tanakh Studies/1 Enoch.md",
-    "Judaism/Ancient Judaism/Herod's Temple.md",
-    "Judaism/Ancient Judaism/Herodian Dynasty.md",
-    "Judaism/Ancient Judaism/Hellenization.md",
-    "Judaism/Ancient Judaism/Hasmonean Dynasty.md",
-    "Comparative Theology/Covenant Theology/Westminster Confession of Faith.md",
-    "Comparative Theology/Covenant Theology/Dispensationalism.md",
-    "Comparative Theology/Covenant Theology/Covenant of Works.md",
-    "Comparative Theology/Covenant Theology/Covenant of Redemption.md",
-    "Comparative Theology/Covenant Theology/Covenant of Grace.md",
-    "Comparative Theology/Covenant Theology/New Covenant.md",
-    "Comparative Theology/Covenant Theology/Mosaic Covenant.md",
-    "Comparative Theology/Covenant Theology/Abrahamic Covenant.md",
-    "Christianity/Reformation/Sola Scriptura.md",
-    "Christianity/Reformation/Sola Fide.md",
-    "Christianity/Reformation/Reformed Theology.md",
-    "Christianity/Reformation/Puritanism.md",
-    "Christianity/Reformation/Martin Luther.md",
-    "Christianity/Reformation/Lutheran Confessions.md",
-    "Christianity/Reformation/John Calvin.md",
-    "Christianity/Reformation/Jesuits.md",
-    "Christianity/Reformation/Henry VIII.md",
-    "Christianity/Reformation/English Reformation.md",
-    "Christianity/Reformation/Diet of Worms.md",
+    "Vault.md",
+    "To Study.md",
+    "Questions/Hub - Questions.md",
+    "Questions/How to Apply Ethics Taught By Jesus.md",
+    "Questions/Link between Apocalypticism and Gnosticism.md",
+    "Misc/Roman Empire/Roman Empire.md",
+    "Misc/Hub - Misc.md",
+    "Resources/Hub - Resources.md",
+    "Templates/Hub - Templates.md",
+    "Literature Notes/Hub - Literature Notes.md",
+    "People/Hub - People.md",
+    "Primary Sources/Rabbinic Writings/Hub - Rabbinic Writings.md",
+    "Primary Sources/Philo/Hub - Philo.md",
+    "Primary Sources/Mishnah & Talmud/Hub - Mishnah & Talmud.md",
+    "Primary Sources/Josephus/Hub - Josephus.md",
+    "Primary Sources/Dead Sea Scrolls/Hub - Dead Sea Scrolls.md",
+    "Primary Sources/Dead Sea Scrolls/Dead Sea Scrolls.md",
+    "Primary Sources/Church Fathers/Hub - Church Fathers.md",
+    "Primary Sources/Bible (NRSV, Hebrew, Greek)/Hub - Bible.md",
+    "Comparative Theology/Worship & Liturgy/Hub - Worship & Liturgy.md",
+    "Comparative Theology/Messianic Expectations/Hub - Messianic Expectations.md",
+    "Comparative Theology/Ethics and Law/Hub - Ethics and Law.md",
+    "Comparative Theology/Doctrinal Comparisons/Hub - Doctrinal Comparisons.md",
+    "Comparative Theology/Covenant Theology/Hub - Covenant Theology.md",
+    "Systematic Theology/Soteriology/Hub - Soteriology.md",
+    "Systematic Theology/Pneumatology/Hub - Pneumatology.md",
+    "Tags",
     "Questions",
     "Tags/#topic",
     "Misc/Roman Empire",
     "Primary Sources/Bible (NRSV, Hebrew, Greek)/Old Testament",
-    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity/Course Summary.pdf",
+    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine/Course Summary.pdf",
     ".md",
-    "Tags",
     "Resources/Maps",
-    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine - A History of Early Christianity",
+    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine",
     "Christianity/Historical Christianity",
     "quartz/node_modules/cli-spinner/img/spinner.gif",
     "quartz/node_modules/gifuct-js/demo/jblack.gif",
