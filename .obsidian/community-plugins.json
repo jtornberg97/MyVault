@@ -4,7 +4,7 @@
   "templater-obsidian",
   "auto-scripture-linker",
   "tag-wrangler",
-  "make-md",
   "convert-url-to-iframe",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "make-md"
 ]

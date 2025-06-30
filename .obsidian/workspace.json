@@ -11,24 +11,34 @@
             "id": "01fc0e49e203ad38",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "1eb1a51e44d7dd98",
+            "type": "leaf",
+            "state": {
+              "type": "mk-uri-view",
               "state": {
-                "file": "People/David.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "path": "https://www.make.md/static/latest.md"
               },
               "icon": "lucide-file",
-              "title": "David"
+              "title": "https://www.make.md/static/latest.md"
+            }
+          },
+          {
+            "id": "558e2cb97fa04bb2",
+            "type": "leaf",
+            "state": {
+              "type": "mk-uri-view",
+              "state": {
+                "path": "https://www.make.md/static/GetStarted.md"
+              },
+              "icon": "lucide-file",
+              "title": "https://www.make.md/static/GetStarted.md"
             }
           },
           {
@@ -79,7 +89,8 @@
               "title": "Exodus"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,8 +142,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "26980ebf662c6f61",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -219,16 +241,6 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "fad151480e3317c9",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
           }
         ],
         "currentTab": 4
@@ -244,7 +256,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "People/David.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -272,7 +283,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of David"
+              "title": "Graph view"
             }
           }
         ]
@@ -294,8 +305,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1999b2bb41690748",
+  "active": "558e2cb97fa04bb2",
   "lastOpenFiles": [
+    "People/David.md",
     "Judaism/Torah & Tanakh Studies/4 Ezra.md",
     "Judaism/Torah & Tanakh Studies/1 Enoch.md",
     "Judaism/Ancient Judaism/Herod's Temple.md",
@@ -321,7 +333,6 @@
     "Christianity/Reformation/Henry VIII.md",
     "Christianity/Reformation/English Reformation.md",
     "Christianity/Reformation/Diet of Worms.md",
-    "Christianity/Reformation/Counter-Reformation.md",
     "Questions",
     "Tags/#topic",
     "Misc/Roman Empire",
