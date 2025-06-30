@@ -10,7 +10,7 @@ tags: [god-(theology-proper)]
 ## 📄 Notes
 ```dataview
 table file.name as "Note", file.mtime as "Last Modified"
-from "Systematic Theology/God (Theology Proper)"
+from "Theology/God (Theology Proper)"
 where file.name != "index"
 sort file.mtime desc
 ```

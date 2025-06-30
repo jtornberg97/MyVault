@@ -1,15 +1,15 @@
 ---
-title: "Pneumatology"
+title: "Bibliology"
 type: "folder-index"
-category: "Pneumatology"
-tags: [pneumatology]
+category: "Bibliology"
+tags: [bibliology]
 ---
 
-# Pneumatology
+# Bibliology
 
 ## 📄 Notes
 ```dataview
 table file.name as "Note", file.mtime as "Last Modified"
-from "Systematic Theology/Pneumatology"
+from "Theology/Bibliology"
 sort file.mtime desc
 ```

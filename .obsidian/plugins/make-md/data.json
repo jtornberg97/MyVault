@@ -38,15 +38,11 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
+    "//Tags",
+    "//Christianity/Christianity/New Testament Studies",
     "/",
-    "//Systematic Theology/Systematic Theology/Christology",
-    "//Systematic Theology/Systematic Theology/Ecclesiology",
-    "//Systematic Theology/Systematic Theology/Eschatology",
-    "//Systematic Theology/Systematic Theology/God (Theology Proper)",
-    "//Systematic Theology/Systematic Theology/Soteriology",
-    "//Systematic Theology/Systematic Theology/Pneumatology",
-    "//Systematic Theology/Systematic Theology/Bibliology",
-    "//Tags"
+    "//Systematic Theology",
+    "//Systematic Theology/Systematic Theology/Covenant Theology"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -61,7 +57,7 @@
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
-  "inlineContextExpanded": true,
+  "inlineContextExpanded": false,
   "inlineContextProperties": true,
   "inlineContextSectionsExpanded": true,
   "banners": true,

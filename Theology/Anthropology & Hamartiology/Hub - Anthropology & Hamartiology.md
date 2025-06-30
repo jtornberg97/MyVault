@@ -10,6 +10,6 @@ tags: [anthropology-&-hamartiology]
 ## 📄 Notes
 ```dataview
 table file.name as "Note", file.mtime as "Last Modified"
-from "Systematic Theology/Anthropology & Hamartiology"
+from "Theology/Anthropology & Hamartiology"
 sort file.mtime desc
 ```

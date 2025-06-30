@@ -4,26 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9a6b59c4de2101f8",
+        "id": "254fc54ea7543822",
         "type": "tabs",
         "children": [
           {
-            "id": "01fc0e49e203ad38",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "558e2cb97fa04bb2",
+            "id": "d0b8905830b65a1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/John Calvin.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,107 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "John Calvin"
-            }
-          },
-          {
-            "id": "2351e514833c6ce0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Christianity/Reformation/Jesuits.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Jesuits"
-            }
-          },
-          {
-            "id": "bfc34ff59542518e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Henry VIII.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Henry VIII"
-            }
-          },
-          {
-            "id": "f770e56aecc834f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Questions/How to Apply Ethics Taught By Jesus.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "How to Apply Ethics Taught By Jesus"
-            }
-          },
-          {
-            "id": "fa54d86ad9d86ff1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primary Sources/Bible (NRSV, Hebrew, Greek)/Exodus.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Exodus"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,8 +94,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -215,7 +107,7 @@
       {
         "id": "4e12460148a13d20",
         "type": "tabs",
-        "dimension": 53.609239653512994,
+        "dimension": 44.43127962085308,
         "children": [
           {
             "id": "f598218015e4de8f",
@@ -294,52 +186,25 @@
         "currentTab": 4
       },
       {
-        "id": "c17cd923b8c7b538",
+        "id": "7ee820887398c2aa",
         "type": "tabs",
-        "dimension": 46.390760346487006,
+        "dimension": 55.56872037914692,
         "children": [
           {
-            "id": "127c1fd0fb5624a6",
+            "id": "01fc0e49e203ad38",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "People/Henry VIII.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.1232586610973318,
-                  "close": true
-                }
-              },
+              "type": "graph",
+              "state": {},
               "icon": "lucide-git-fork",
-              "title": "Graph of Henry VIII"
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 317.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -354,44 +219,44 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "38cbe1c2f541837c",
+  "active": "01fc0e49e203ad38",
   "lastOpenFiles": [
-    "Christianity/Reformation/Reformation.md",
-    "Christianity/Reformation/Jesuits.md",
-    "People/John Calvin.md",
-    "Christianity/Church Fathers/Church Fathers.md",
-    "Christianity/Hub - Christianity.md",
-    "Comparative Theology/Doctrinal Comparisons/Heresy.md",
-    "Comparative Theology/Doctrinal Comparisons/Hub - Doctrinal Comparisons.md",
     "README.md",
-    "Vault.md",
     "To Study.md",
-    "Questions/Hub - Questions.md",
-    "Questions/How to Apply Ethics Taught By Jesus.md",
-    "Questions/Link between Apocalypticism and Gnosticism.md",
-    "Misc/Roman Empire/Roman Empire.md",
-    "Misc/Hub - Misc.md",
-    "Resources/Hub - Resources.md",
-    "Templates/Hub - Templates.md",
-    "Literature Notes/Hub - Literature Notes.md",
-    "People/Hub - People.md",
-    "Primary Sources/Rabbinic Writings/Hub - Rabbinic Writings.md",
-    "Primary Sources/Philo/Hub - Philo.md",
-    "Primary Sources/Mishnah & Talmud/Hub - Mishnah & Talmud.md",
-    "Primary Sources/Josephus/Hub - Josephus.md",
-    "Primary Sources/Dead Sea Scrolls/Hub - Dead Sea Scrolls.md",
+    "Primary Sources/Hub - Primary Sources.md",
+    "Theology/Hub - Theology.md",
     "Primary Sources/Dead Sea Scrolls/Dead Sea Scrolls.md",
-    "Primary Sources/Church Fathers/Hub - Church Fathers.md",
+    "Judaism/Hub - Judaism.md",
+    "Christianity/Christianity.md",
+    "Christianity/Hub - Christianity.md",
+    "Theology/Eschatology/Hub - Eschatology.md",
+    "Theology/Doctrinal Comparisons/Hub - Doctrinal Comparisons.md",
+    "Theology/Worship & Liturgy/Hub - Worship & Liturgy.md",
+    "Theology/Messianic Expectations/Hub - Messianic Expectations.md",
+    "Theology/Ethics and Law/Hub - Ethics and Law.md",
+    "Theology/Covenant Theology/Hub - Covenant Theology.md",
+    "Theology/Soteriology/Hub - Soteriology.md",
+    "Theology/Pneumatology/Hub - Pneumatology.md",
+    "Theology/God (Theology Proper)/Hub - God (Theology Proper).md",
+    "Theology/Ecclesiology/Hub - Ecclesiology.md",
+    "Theology/Christology/Hub - Christology.md",
+    "Theology/Bibliology/Hub - Bibliology.md",
+    "Theology/Anthropology & Hamartiology/Hub - Anthropology & Hamartiology.md",
+    "Vault.md",
+    "Theology/Worship & Liturgy",
+    "Theology/Messianic Expectations/Messiah.md",
+    "Theology/Messianic Expectations",
+    "Theology/Ethics and Law",
+    "Theology/Doctrinal Comparisons/Heresy.md",
+    "Theology/Doctrinal Comparisons",
+    "Theology/Covenant Theology/Westminster Confession of Faith.md",
+    "Theology/Covenant Theology/New Covenant.md",
+    "Theology/Covenant Theology",
     "Tags",
     "Questions",
     "Tags/#topic",
     "Misc/Roman Empire",
     "Primary Sources/Bible (NRSV, Hebrew, Greek)/Old Testament",
-    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine/Course Summary.pdf",
-    ".md",
-    "Resources/Maps",
-    "Christianity/Historical Christianity/Ehrman - From Jesus to Constantine",
-    "Christianity/Historical Christianity",
     "quartz/node_modules/cli-spinner/img/spinner.gif",
     "quartz/node_modules/gifuct-js/demo/jblack.gif",
     "quartz/node_modules/gifuct-js/demo/dog.gif",

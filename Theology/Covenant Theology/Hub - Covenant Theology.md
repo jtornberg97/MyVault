@@ -10,6 +10,6 @@ tags: [covenant-theology]
 ## 📄 Notes
 ```dataview
 table file.name as "Note", file.mtime as "Last Modified"
-from "Comparative Theology/Covenant Theology"
+from "Theology/Covenant Theology"
 sort file.mtime desc
 ```

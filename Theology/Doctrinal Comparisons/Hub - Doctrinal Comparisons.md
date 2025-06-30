@@ -10,6 +10,6 @@ tags: [doctrinal-comparisons]
 ## 📄 Notes
 ```dataview
 table file.name as "Note", file.mtime as "Last Modified"
-from "Comparative Theology/Doctrinal Comparisons"
+from "Theology/Doctrinal Comparisons"
 sort file.mtime desc
 ```

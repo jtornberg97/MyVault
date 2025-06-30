@@ -1,15 +1,15 @@
 ---
-title: "Ecclesiology"
+title: "Christology"
 type: "folder-index"
-category: "Ecclesiology"
-tags: [ecclesiology]
+category: "Christology"
+tags: [christology]
 ---
 
-# Ecclesiology
+# Christology
 
 ## 📄 Notes
 ```dataview
 table file.name as "Note", file.mtime as "Last Modified"
-from "Systematic Theology/Ecclesiology"
+from "Theology/Christology"
 sort file.mtime desc
 ```

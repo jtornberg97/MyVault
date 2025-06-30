@@ -10,6 +10,6 @@ tags: [messianic-expectations]
 ## 📄 Notes
 ```dataview
 table file.name as "Note", file.mtime as "Last Modified"
-from "Comparative Theology/Messianic Expectations"
+from "Theology/Messianic Expectations"
 sort file.mtime desc
 ```

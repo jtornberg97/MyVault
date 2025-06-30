@@ -1,15 +1,15 @@
 ---
-title: "Christology"
+title: "Worship & Liturgy"
 type: "folder-index"
-category: "Christology"
-tags: [christology]
+category: "Worship & Liturgy"
+tags: [worship-&-liturgy]
 ---
 
-# Christology
+# Worship & Liturgy
 
 ## 📄 Notes
 ```dataview
 table file.name as "Note", file.mtime as "Last Modified"
-from "Systematic Theology/Christology"
+from "Theology/Worship & Liturgy"
 sort file.mtime desc
 ```

@@ -1,15 +1,15 @@
 ---
-title: "Bibliology"
+title: "Eschatology"
 type: "folder-index"
-category: "Bibliology"
-tags: [bibliology]
+category: "Eschatology"
+tags: [eschatology]
 ---
 
-# Bibliology
+# Eschatology
 
 ## 📄 Notes
 ```dataview
 table file.name as "Note", file.mtime as "Last Modified"
-from "Systematic Theology/Bibliology"
+from "Theology/Eschatology"
 sort file.mtime desc
 ```

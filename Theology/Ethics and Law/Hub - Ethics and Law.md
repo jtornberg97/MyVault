@@ -1,15 +1,15 @@
 ---
-title: "Eschatology"
+title: "Ethics and Law"
 type: "folder-index"
-category: "Eschatology"
-tags: [eschatology]
+category: "Ethics and Law"
+tags: [ethics-and-law]
 ---
 
-# Eschatology
+# Ethics and Law
 
 ## 📄 Notes
 ```dataview
 table file.name as "Note", file.mtime as "Last Modified"
-from "Systematic Theology/Eschatology"
+from "Theology/Ethics and Law"
 sort file.mtime desc
 ```
